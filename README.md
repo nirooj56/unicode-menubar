@@ -1,6 +1,8 @@
 # Unicode Menubar App
 > Unicode Converter that lives in your menu bar.
 
+## NOTICE
+This is NOT happening anymore. Nver got around to work on it.
 
 ## Development
 ```shell
